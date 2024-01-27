@@ -1,0 +1,50 @@
+{
+  "label": "Search Engine",
+  "fields": [
+    {
+      "id": "label",
+      "label": "Label",
+      "component": "text",
+      "validators": [
+        {
+          "validator": "required"
+        },
+        {
+          "validator": "max",
+          "props": {
+            "max": 32
+          }
+        }
+      ]
+    },
+    {
+      "id": "desc",
+      "label": "Description",
+      "component": "area",
+      "validators": [
+        {
+          "validator": "required"
+        }
+      ]
+    },
+    {
+      "id": "url",
+      "label": "Url",
+      "component": "text",
+      "props": {
+        "type": "text"
+      },
+      "validators": [
+        {
+          "validator": "required"
+        },
+        {
+          "validator": "regex",
+          "props": {
+            "regex": "^(http://|https://)*"
+          }
+        }
+      ]
+    }
+  ]
+}
