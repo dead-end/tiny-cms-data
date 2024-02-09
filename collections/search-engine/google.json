@@ -1,5 +1,1 @@
-{
-   "label":"Google",
-   "desc":"The google search engine.",
-   "url":"https://google.de"
-}
+{"id":"google","title":"Google","modified":1707520594546,"data":{"desc":"The Google search engine.","url":"https://www.google.com"}}
