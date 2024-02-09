@@ -1,5 +1,1 @@
-{
-   "label":"DuckDuckGo",
-   "desc":"The duckduckgo search engine.",
-   "url":"https://duckduckgo.com/"
-}
+{"id":"duckduckgo","title":"Duck Duck GO","modified":1707520594546,"data":{"desc":"The DuckDuckGo search engine.","url":"https://duckduckgo.com/"}}
