@@ -1,10 +1,1 @@
-{
-  "id": "bing",
-  "title": "Bing Label",
-  "modified": 1708720421498,
-  "data": {
-    "label": "Bing Label",
-    "desc": "The Bing search engine.",
-    "url": "https://www.bing.com/?cc=de"
-  }
-}
+{"id":"bing","title":"Bing Label","modified":1708726830509,"data":{"label":null,"desc":null,"url":null}}
