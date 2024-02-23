@@ -4,8 +4,21 @@
   "modified": 1707640660245,
   "fields": [
     {
-      "id": "label",
-      "label": "Label",
+      "id": "id",
+      "label": "ID",
+      "component": "text",
+      "validators": [
+        {
+          "validator": "required"
+        },
+        {
+          "validator": "id"
+        }
+      ]
+    },
+    {
+      "id": "title",
+      "label": "Title",
       "component": "text",
       "validators": [
         {
