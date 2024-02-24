@@ -1,1 +1,10 @@
-{"id":"bing","title":"Bing Label","modified":1708765359033,"data":{"label":"Bing","desc":"Bing desc","url":"https://www.bing.com/?cc=de"}}
+{
+  "tc_id": "bing",
+  "tc_title": "Bing Label",
+  "tc_modified": 1708765359033,
+  "data": {
+    "label": "Bing",
+    "desc": "Bing desc",
+    "url": "https://www.bing.com/?cc=de"
+  }
+}

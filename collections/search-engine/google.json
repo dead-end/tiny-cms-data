@@ -1,7 +1,7 @@
 {
-  "id": "google",
-  "title": "Google",
-  "modified": 1707520594546,
+  "tc_id": "google",
+  "tc_title": "Google",
+  "tc_modified": 1707520594546,
   "data": {
     "label": "Google",
     "desc": "The Google search engine.",
