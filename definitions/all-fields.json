@@ -10,6 +10,7 @@
             "validators": [
                 {
                     "validator": "required"
+                    "msg": "Please enter a description!"
                 }
             ]
         },
