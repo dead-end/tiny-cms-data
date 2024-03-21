@@ -16,7 +16,7 @@
                     "props": {
                         "max": 32
                     },
-                    "max": "Label is too large!"
+                    "message": "Label is too large!"
                 }
             ]
         },
