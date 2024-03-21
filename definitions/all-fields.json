@@ -47,7 +47,7 @@
             "component": "selectbox",
             "value": "blue",
             "props": {
-                "options":"green,red,blue,black",
+                "options": "green,red,blue,black"
             },
             "validators": [
                 {
