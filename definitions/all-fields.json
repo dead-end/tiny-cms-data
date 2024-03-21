@@ -27,7 +27,7 @@
                 {
                     "validator": "regex",
                     "props": {
-                        "regex": "^(http://|https://)*"
+                        "regex": "^(http://|https://)"
                     },
                     "msg": "Please enter an URL!"
                 }
