@@ -9,7 +9,7 @@
             "component": "area",
             "validators": [
                 {
-                    "validator": "required"
+                    "validator": "required",
                     "message": "Please enter a description!"
                 }
             ]
