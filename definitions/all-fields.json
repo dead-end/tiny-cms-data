@@ -45,7 +45,10 @@
             "id": "selectbox",
             "label": "Selectbox",
             "component": "selectbox",
-            "value": "green,red,blue,black",
+            "value": "blue",
+            "props": {
+                "options":"green,red,blue,black",
+            },
             "validators": [
                 {
                     "validator": "required"
