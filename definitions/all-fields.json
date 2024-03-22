@@ -15,6 +15,17 @@
             ]
         },
         {
+            "id": "md",
+            "label": "Markdown",
+            "component": "markdown",
+            "validators": [
+                {
+                    "validator": "required",
+                    "message": "Please enter a markdown text!"
+                }
+            ]
+        },
+        {
             "id": "url",
             "label": "Url",
             "component": "text",
